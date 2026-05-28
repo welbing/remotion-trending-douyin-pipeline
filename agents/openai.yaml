@@ -1,0 +1,9 @@
+interface:
+  display_name: "Remotion Trending Douyin Pipeline"
+  short_description: "Find trending projects, generate Remotion videos, make Douyin covers, and publish."
+  brand_color: "#7C3AED"
+  default_prompt: "Use $remotion-trending-douyin-pipeline to pick a current GitHub Trending AI project, make a Douyin-ready Remotion video package, create both covers, and prepare/upload it."
+
+policy:
+  allow_implicit_invocation: true
+
